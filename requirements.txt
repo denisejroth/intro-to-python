@@ -1,0 +1,11 @@
+# Introduction to Python — dependencies
+# The notebooks run in Google Colab with no setup. For a local install,
+# Python 3.10+ is recommended. Install with:
+#     pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+
+# Jupyter, if you want to run the notebooks locally
+jupyter
